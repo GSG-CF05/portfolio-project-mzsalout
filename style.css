@@ -109,3 +109,51 @@ nav ul li {
   padding: 20px;
   margin: 10px;
 }
+
+.projects {
+  background-color: #eee;
+  padding: 32 0;
+  margin-top: 50px;
+}
+
+.project-pic {
+  width: 50%;
+  height: 50%;
+}
+
+.projects-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.projects-title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.project-container {
+  text-align: center;
+  max-width: 500px;
+  padding: 20px;
+}
+
+.project-container p {
+  padding: 20px;
+}
+
+.project-title {
+  margin-bottom: 5px;
+}
+
+.project-details {
+  margin-bottom: 5px;
+}
+
+.project-card {
+  background-color: white;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px #8b8eaf;
+  padding: 20px;
+  margin: 10px;
+}
