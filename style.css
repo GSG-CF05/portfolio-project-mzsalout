@@ -58,3 +58,26 @@ nav ul {
 nav ul li {
   font-weight: bold;
 }
+
+.hero-img {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.bio {
+  background-color: #eee;
+  padding: 15px;
+}
+
+.bio-title {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.bio-text {
+  line-height: 1.6;
+  padding: 15px 5px;
+}
